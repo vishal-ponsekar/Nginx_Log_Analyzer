@@ -1,2 +1,6 @@
 # Nginx_Log_Analyzer
-I wrote scripts to analyze nginx logs from command line
+I wrote commands to analyze nginx logs from command line
+
+### Prerequisites
+- nginx log file
+- downloaded script file
