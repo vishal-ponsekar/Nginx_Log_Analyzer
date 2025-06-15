@@ -5,6 +5,8 @@ I wrote commands to analyze nginx logs from command line
 - nginx log file
 - downloaded script file
 
+**Remember:** In the script, nginx-access.log is my log file name. If your file name is different or the file is stored in different directory then give the filename with the path in the awk command.
+
 ### Steps to Run
 - Ensure the script and nginx file in same directory.
 - Then, run the script.
